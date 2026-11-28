@@ -1,0 +1,9 @@
+# AMUJ-Z — Play Tournaments, Win Rewards
+> Official download page for the AMUJ-Z Free Fire tournament Android application (APK).
+
+## About AMUJ-Z
+AMUJ-Z is an Android gaming tournament platform where players join Bermuda and Clash Squad custom rooms, compete for rewards, and manage wallet deposits and withdrawals.
+
+## Links
+- [Official Website & APK Download](https://ujjwalofficial07.github.io/AMUJ-Z-apk/)
+- [GitHub Releases](https://github.com/ujjwalofficial07/AMUJ-Z-apk/releases)
